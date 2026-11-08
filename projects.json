@@ -1,0 +1,24 @@
+  [{
+    "id": 1,
+    "title": "Email Classification using Machine Learning",
+    "description": "Developing a machine learning model to automatically classify and organize emails into predefined categories based on message content and metadata.",
+    "imageUrl": "./emailfilter.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Virtualizing Home Assistant using Proxmox",
+    "description": "Implementing a virtualized Home Assistant environment on a Proxmox hypervisor to improve home automation management, scalability, and resource utilization.",
+    "imageUrl": "./homeassistant.jpg"
+  },
+  {
+    "id": 3,
+    "title": "DNS Filtering for Home Network using AdGuard",
+    "description": "Configuring AdGuard Home to provide network-wide DNS filtering, blocking advertisements, trackers, and malicious domains across all connected devices.",
+    "imageUrl": "./adguard.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Vulnerability Scanning for Home Network using Tenable Nessus",
+    "description": "Deployed Tenable Nessus to identify and assess security vulnerabilities within a home network, enabling proactive risk mitigation and system hardening.",
+    "imageUrl": "./tenablenessus.png"
+  }]
